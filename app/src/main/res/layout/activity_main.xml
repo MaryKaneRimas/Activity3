@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/name1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="Papa"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:id="@+id/num1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="09467304213"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/btnM1"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="-60dp"
+        android:layout_marginLeft="170dp"
+        android:background="@drawable/message"
+        android:onClick="btnM1"/>
+    <Button
+        android:id="@+id/btnC1"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="-61dp"
+        android:layout_marginLeft="250dp"
+        android:background="@drawable/call"
+        android:onClick="btnC1"/>
+
+
+    <TextView
+        android:id="@+id/name2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="Mama"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:id="@+id/num2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="09380885385"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/btnM2"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="-60dp"
+        android:layout_marginLeft="170dp"
+        android:background="@drawable/message"
+        android:onClick="btnM2"/>
+    <Button
+        android:id="@+id/btnC2"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="-61dp"
+        android:layout_marginLeft="250dp"
+        android:background="@drawable/call"
+        android:onClick="btnC2"/>
+
+
+    <TextView
+        android:id="@+id/name3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="Alden"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:id="@+id/num3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="09460556340"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/btnM3"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="-60dp"
+        android:layout_marginLeft="170dp"
+        android:background="@drawable/message"
+        android:onClick="btnM3"/>
+
+    <Button
+        android:id="@+id/btnC3"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="-61dp"
+        android:layout_marginLeft="250dp"
+        android:background="@drawable/call"
+        android:onClick="btnC3"/>
+
+    <TextView
+        android:id="@+id/name4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="Kane"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:id="@+id/num4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="09675363343"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/btnM4"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="-60dp"
+        android:layout_marginLeft="170dp"
+        android:background="@drawable/message"
+        android:onClick="btnM4"/>
+    <Button
+        android:id="@+id/btnC4"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="-61dp"
+        android:layout_marginLeft="250dp"
+        android:background="@drawable/call"
+        android:onClick="btnC4"/>
+
+
+    <TextView
+        android:id="@+id/name5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="Neryl"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:id="@+id/num5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="09355807510"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/btnM5"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="-60dp"
+        android:layout_marginLeft="170dp"
+        android:background="@drawable/message"
+        android:onClick="btnM5"/>
+    <Button
+        android:id="@+id/btnC5"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="-61dp"
+        android:layout_marginLeft="250dp"
+        android:background="@drawable/call"
+        android:onClick="btnC5"/>
+
+
+</LinearLayout>
